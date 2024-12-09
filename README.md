@@ -84,7 +84,7 @@ medicine administration, allergy constraints, habitat maintenance, and complex s
 high client satisfaction resulting in long-term portfolio of clients. Clients have included dogs, cats, small mammals, fish, reptiles, and birds.
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration
   
-# Seasonal Pool Attendant
+## Seasonal Pool Attendant
 
 Aquatic Management of Charlotte
 
@@ -94,7 +94,7 @@ In addition to client services and issue resolution, responsible for balancing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
- # Hospitality Entry to Supervisor Positions
+ ## Hospitality Entry to Supervisor Positions
  
  Various
 
@@ -105,7 +105,7 @@ Experience in customer service, food safety and regulatory control adherence, co
 training and onboarding new hires, restaurant operations, process management, scheduling, and financial reporting.
 Inventory Management, Leadership, Customer Service, Onboarding & Training, Microsoft Office, Sanitation
 
-# Farm Management Intern
+## Farm Management Intern
 
 Altari Group
 
@@ -115,12 +115,12 @@ Gained animal care experience inclusive of enclosure safety and maintenance, fee
 vaccination administration, animal first aid, and pasture planning and sustainability. Handling, care, and training of variety of livestock and limited wildlife rehabilitation.
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration, Hoofstock Vaccine Administration
 
-### Education
+# Education
 - Bachelor of Science, Marine Biology & Sustainable Aquaculture | 2021 - Present | Unity Environmental University
 - Greenville Technical College | 2021 |	Bachelor of Science
 - GED | 2020 | Rowan-Cabarrus Community College
 
-### VOLUNTEERSHIP
+## VOLUNTEERSHIP
 •	Human Rights Campaign
 •	Ada Jenkins
 •	Cornelius Animal Shelter
