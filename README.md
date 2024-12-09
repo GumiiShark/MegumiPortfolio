@@ -101,7 +101,7 @@ high client satisfaction resulting in long-term portfolio of clients. Clients ha
 
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration.
   
-### Seasonal Pool Attendant
+## Seasonal Pool Attendant
 
 Aquatic Management of Charlotte
 
@@ -112,7 +112,7 @@ and recording of chemical levels in pool to ensure safety and compliance standar
 
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
-### Hospitality Entry to Supervisor Positions
+## Hospitality Entry to Supervisor Positions
  
  Various
 
@@ -124,7 +124,7 @@ training and onboarding new hires, restaurant operations, process management, sc
 
 Inventory Management, Leadership, Customer Service, Onboarding & Training, Microsoft Office, Sanitation
 
-### Farm Management Intern
+## Farm Management Intern
 
 Altari Group
 
