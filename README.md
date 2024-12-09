@@ -23,7 +23,7 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
  
  # Ecological Impact of Blue Tilapia Sea Pens
 
- An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
+ An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
  
  https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing
  ![BlueTilapiaFinal.pdf](media/BlueTilapiaFinal.pdf)
@@ -35,9 +35,9 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
 
  https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing
- ![Mean Proportion of Diet Composition by Weight.pdf](media/Mean Proportion of Diet Composition by Weight.pdf)
+![Mean Proportion of Diet Composition by Weight.pdf](media/Mean Proportion of Diet Composition by Weight.pdf)
  https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
- ![Mean Proportion of Diet Composition by WeightPaper.pdf](media/Mean Proportion of Diet Composition by WeightPaper.pdf)
+![Mean Proportion of Diet Composition by WeightPaper.pdf](media/Mean Proportion of Diet Composition by WeightPaper.pdf)
  
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
