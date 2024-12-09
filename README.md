@@ -69,6 +69,10 @@ A comprehensive branding assessment for Lighthouse Global, featuring an analysis
 ![LighthouseBrandConsult](media/LighthouseBrandConsult.pdf)
 https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing
 
+![Contents](media/lighthouseglobalcontents.png)
+![SocialMediaChanges](media/socialmediachanges.png)
+![SocialMediaGoals](media/goalsQ22025.png)
+
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
 
@@ -94,7 +98,7 @@ medicine administration, allergy constraints, habitat maintenance, and complex s
 high client satisfaction resulting in long-term portfolio of clients. Clients have included dogs, cats, small mammals, fish, reptiles, and birds.
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration
   
-## Seasonal Pool Attendant
+### Seasonal Pool Attendant
 
 Aquatic Management of Charlotte
 
@@ -104,7 +108,7 @@ In addition to client services and issue resolution, responsible for balancing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
- ## Hospitality Entry to Supervisor Positions
+ ### Hospitality Entry to Supervisor Positions
  
  Various
 
@@ -115,7 +119,7 @@ Experience in customer service, food safety and regulatory control adherence, co
 training and onboarding new hires, restaurant operations, process management, scheduling, and financial reporting.
 Inventory Management, Leadership, Customer Service, Onboarding & Training, Microsoft Office, Sanitation
 
-## Farm Management Intern
+### Farm Management Intern
 
 Altari Group
 
