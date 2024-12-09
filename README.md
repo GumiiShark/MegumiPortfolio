@@ -3,17 +3,17 @@ Veteran customer service professional with excellent problem-resolution, present
 Thanks for visiting!
  
 ### Skills
-Leadership, Relationship Management, Data Analysis, Collaboration, Cultural Intelligence, Communications, Animal First Aid, Storytelling, Project Management, Research, Enclosure Development, Sustainability Design, Media Training, Process Improvement, Public Speaking, Sea Turtle Rehabilitation, Aquaculture Development, Animal Taxonomy, SCUBA Certification, Ichthyology, Customer Service, Microsoft Office, Adaptability, Animal Care, Schedule Management.
+Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Ichthyology | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management |
 
   
 ### Projects
 
+
 ## Sea Turtle Rehabilitation: 
 Sea Turtle Rehabilitation Protocol for the Sound of Jura
-      image: "images/SeaTurtleJuraProtocolCopy.pdf",
-      summary:
-        Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.",
-      Skills: Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
+Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.",
+
+Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
  ## Marine and BiologyProjects:
  
