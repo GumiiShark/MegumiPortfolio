@@ -24,7 +24,7 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
  An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
       Skills: Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
-      # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
+  # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
       image: "images/Mean Proportion of Diet Composition by Weight.pdf"
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
       preview: "images/Mean Proportion of Diet Composition by WeightPaper.pdf"
