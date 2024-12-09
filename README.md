@@ -100,7 +100,6 @@ medicine administration, allergy constraints, habitat maintenance, and complex s
 high client satisfaction resulting in long-term portfolio of clients. Clients have included dogs, cats, small mammals, fish, reptiles, and birds.
 
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration.
-
   
 ### Seasonal Pool Attendant
 
