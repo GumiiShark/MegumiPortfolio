@@ -51,7 +51,7 @@ Is there a satistically significant composition of diet between pelagics sharks 
  
 ### Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
 
-How human presence impacts biodiversity of both native and non-native plants
+How human presence impacts biodiversity of both native and non-native plants.
 
 ![HedaraHelix](media/HedaraHelix.png)
 
@@ -65,7 +65,7 @@ Research, Statistics, Ecosystems, Biodiversity, Data Analysis
 
 ### Lighthouse Global Branding Report
 
-A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
+A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms.
 
 ![Contents](media/lighthouseglobalcontents.png)
 ![SocialMediaChanges](media/socialmediachanges.png)
@@ -79,7 +79,7 @@ Research, Storytelling , Cultural Intellegence, Communications, Marketing, Socia
 
 ### Caring For Our Care Providers
  
- The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
+ The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system.
 
  ![Caring For Our Care Providers](media/CaringForOurCareProviders.pdf)
 https://drive.google.com/file/d/1rz71n59G2k9SUBPZKs7jv1pvQcG8ddy-/view?usp=sharing
@@ -97,7 +97,9 @@ Research, Storytelling, Cultural Intellegence, Communications
 Delivering exceptional pet sitting and care service with extensive experience in specialized care inclusive of restrictive dietary needs, 
 medicine administration, allergy constraints, habitat maintenance, and complex schedule needs. Earned reputation for professionalism, passion, and 
 high client satisfaction resulting in long-term portfolio of clients. Clients have included dogs, cats, small mammals, fish, reptiles, and birds.
-Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration
+
+Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration.
+
   
 ### Seasonal Pool Attendant
 
@@ -107,6 +109,7 @@ Aquatic Management of Charlotte
 
 In addition to client services and issue resolution, responsible for balancing, testing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
+
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
  ### Hospitality Entry to Supervisor Positions
@@ -118,6 +121,7 @@ Water Parameter Testing, Water Chemical Balancing, Communications, Customer Serv
 Held multiple positions from entry-level server and food prep through to Supervisor, leading teams of 10+.
 Experience in customer service, food safety and regulatory control adherence, conflict resolution,
 training and onboarding new hires, restaurant operations, process management, scheduling, and financial reporting.
+
 Inventory Management, Leadership, Customer Service, Onboarding & Training, Microsoft Office, Sanitation
 
 ### Farm Management Intern
@@ -128,6 +132,7 @@ Altari Group
 
 Gained animal care experience inclusive of enclosure safety and maintenance, feeding, hygiene, scheduling and procurement,
 vaccination administration, animal first aid, and pasture planning and sustainability. Handling, care, and training of variety of livestock and limited wildlife rehabilitation.
+
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration, Hoofstock Vaccine Administration
 
 # Education
