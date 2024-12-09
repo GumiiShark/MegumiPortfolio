@@ -34,13 +34,12 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
   
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
 
+PowerPoint:
  https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing
-![Mean Proportion of Diet Composition by Weight](media/Mean Proportion of Diet Composition by Weight.pdf)
 
+Accompanying Paper:
  https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
- ![Mean Proportion of Diet Composition by Weight](media/Mean Proportion of Diet Composition by WeightPaper.pdf)
 
- 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
  # Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
