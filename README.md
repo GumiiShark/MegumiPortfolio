@@ -74,31 +74,43 @@ Research, Storytelling, Cultural Intellegence, Communications
 ### Experience 
   
 # Pet Care Professional
+
   2018 - Present
+  
   Independent, Rover
+  
 Delivering exceptional pet sitting and care service with extensive experience in specialized care inclusive of restrictive dietary needs, 
 medicine administration, allergy constraints, habitat maintenance, and complex schedule needs. Earned reputation for professionalism, passion, and 
 high client satisfaction resulting in long-term portfolio of clients. Clients have included dogs, cats, small mammals, fish, reptiles, and birds.
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration
   
 # Seasonal Pool Attendant
+
 2024
+
 Aquatic Management of Charlotte
+
 In addition to client services and issue resolution, responsible for balancing, testing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
  # Hospitality Entry to Supervisor Positions
+ 
 2018-2023
+
 Various
+
 Held multiple positions from entry-level server and food prep through to Supervisor, leading teams of 10+.
 Experience in customer service, food safety and regulatory control adherence, conflict resolution,
 training and onboarding new hires, restaurant operations, process management, scheduling, and financial reporting.
 Inventory Management, Leadership, Customer Service, Onboarding & Training, Microsoft Office, Sanitation
 
-# Farm Management Intern",
+# Farm Management Intern
+
 2012-2013
+
 Altari Group
+
 Gained animal care experience inclusive of enclosure safety and maintenance, feeding, hygiene, scheduling and procurement,
 vaccination administration, animal first aid, and pasture planning and sustainability. Handling, care, and training of variety of livestock and limited wildlife rehabilitation.
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration, Hoofstock Vaccine Administration
