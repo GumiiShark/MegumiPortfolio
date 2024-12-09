@@ -1,10 +1,10 @@
-export const bio = [
+bio = [
   "Hello! I'm Megumi Ragan, Marine Biology Baccalaureate candidate with extensive animal care experience and training, habitat development and maintenance, and research competencies.",
   "Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.",
   "Thanks for visiting!",
   ];
 
-export const skills = [
+skills = [
   {
     skillName: "Leadership", "Relationship Management", "Data Analysis", "Collaboration", "Cultural Intelligence", "Communications", "Animal First-Aid", "Storytelling", "Project Management", "Research", 
     "Enclosure Development", "Sustainability Design", "Media Training", "Process Improvement", "Public Speaking", "Sea Turtle Rehabilitation", "Aquaculture Development", "Animal Taxonomy", "SCUBA Certified", 
@@ -12,7 +12,7 @@ export const skills = [
     color: "1",
   },
   
-export const projects = {
+projects = {
   SeaTurtleRehabilitation: [
     {
       projectName: "Sea Turtle Rehabilitation Protocol for the Sound of Jura",
@@ -66,7 +66,7 @@ Ground Covering Plants of Willow Valley Nature Preserve",
   ],
 };
 
-export const experience = [
+experience = [
   {
     title: "Pet Care Professional",
     duration: "2018 - Present",
@@ -123,7 +123,7 @@ export const experience = [
   },
 ];
 
-export const education = [
+education = [
   {
     title: "Bachelor of Science, Marine Biology & Sustainable Aquaculture",
     duration: "2021 - Present",
@@ -150,7 +150,7 @@ export const education = [
   },
 ];
 
-export const footer = [
+footer = [
 //   {
 // label: "Resources",
 //     data: [
