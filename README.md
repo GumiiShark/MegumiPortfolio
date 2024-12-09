@@ -1,6 +1,6 @@
 Megumi Ragan
 # Summary
-![PictureOfMe](media/mepicture.jpg)
+
 Hello! I'm Megumi Ragan, Marine Biology Baccalaureate candidate with extensive animal care experience and training, habitat development and maintenance, and research competencies.
 Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.
 Thanks for visiting!
