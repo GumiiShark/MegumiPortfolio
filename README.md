@@ -58,7 +58,7 @@ Research, Statistics, Ecosystems, Biodiversity, Data Analysis
 A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
 
 https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing
-![Lighthouse Brand Consult.pdf](media/Lighthouse Brand Consult.pdf)
+![LighthouseBrandConsult](media/LighthouseBrandConsult.pdf)
 
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
@@ -67,7 +67,7 @@ Research, Storytelling , Cultural Intellegence, Communications, Marketing, Socia
  The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
 
 https://drive.google.com/file/d/1rz71n59G2k9SUBPZKs7jv1pvQcG8ddy-/view?usp=sharing
- ![Caring For Our Care Providers.pdf](media/Caring For Our Care Providers.pdf)
+ ![Caring For Our Care Providers](media/CaringForOurCareProviders.pdf)
  
 Research, Storytelling, Cultural Intellegence, Communications
  
