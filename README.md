@@ -93,7 +93,7 @@ Research, Storytelling, Cultural Intellegence, Communications
 
   Independent, Rover
   
-  2018 - Present
+  *2018 - Present*
   
 Delivering exceptional pet sitting and care service with extensive experience in specialized care inclusive of restrictive dietary needs, 
 medicine administration, allergy constraints, habitat maintenance, and complex schedule needs. Earned reputation for professionalism, passion, and 
@@ -105,7 +105,7 @@ Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Ada
 
 Aquatic Management of Charlotte
 
-2024
+*2024*
 
 In addition to client services and issue resolution, responsible for balancing, testing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
@@ -116,7 +116,7 @@ Water Parameter Testing, Water Chemical Balancing, Communications, Customer Serv
  
  Various
 
- 2018-2023
+ *2018-2023*
 
 Held multiple positions from entry-level server and food prep through to Supervisor, leading teams of 10+.
 Experience in customer service, food safety and regulatory control adherence, conflict resolution,
@@ -128,7 +128,7 @@ Inventory Management, Leadership, Customer Service, Onboarding & Training, Micro
 
 Altari Group
 
-2012-2013
+*2012-2013*
 
 Gained animal care experience inclusive of enclosure safety and maintenance, feeding, hygiene, scheduling and procurement,
 vaccination administration, animal first aid, and pasture planning and sustainability. Handling, care, and training of variety of livestock and limited wildlife rehabilitation.
