@@ -113,7 +113,7 @@ and recording of chemical levels in pool to ensure safety and compliance standar
 
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
 
- ### Hospitality Entry to Supervisor Positions
+### Hospitality Entry to Supervisor Positions
  
  Various
 
