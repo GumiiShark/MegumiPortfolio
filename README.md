@@ -1,5 +1,6 @@
 Megumi Ragan
 # Summary
+![PictureOfMe](media/mepicture.jpg)
 Hello! I'm Megumi Ragan, Marine Biology Baccalaureate candidate with extensive animal care experience and training, habitat development and maintenance, and research competencies.
 Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.
 Thanks for visiting!
@@ -142,10 +143,9 @@ Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Ada
 •	Central Elementary School
 
 
-Linkedin
+## Linkedin
 https://www.linkedin.com/in/megumi-ragan-a67036308/
-text: "Github/GumiiShark/portfolio",
-link:(https://gumiishark.github.io/MegumiPortfolio/)
 
-Made by Megumi Ragan
+
+### Made by Megumi Ragan
   
