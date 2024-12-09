@@ -71,9 +71,9 @@ https://drive.google.com/file/d/1rz71n59G2k9SUBPZKs7jv1pvQcG8ddy-/view?usp=shari
  
 Research, Storytelling, Cultural Intellegence, Communications
  
-### Experience 
+# Experience 
   
-# Pet Care Professional
+## Pet Care Professional
 
   Independent, Rover
   
