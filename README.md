@@ -4,10 +4,8 @@ Thanks for visiting!
  
 ## Skills
 Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Ichthyology | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management |
-
-  
-# Projects
-
+ 
+# Marine and Biology Projects:
 
 ## Sea Turtle Rehabilitation: 
 
@@ -18,8 +16,6 @@ Developed a sea turtle rehabilitation protocol for the Sound of Jura including: 
 https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=sharing
 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
-  
-# Marine and Biology Projects:
  
  ## Ecological Impact of Blue Tilapia Sea Pens
 
