@@ -22,33 +22,53 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
 ## Marine and Biology Projects:
  
  # Ecological Impact of Blue Tilapia Sea Pens
-      image: images/BlueTilapiaFinal.pdf
+
  An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
-      Skills: Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
+ 
+ https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing
+ ![BlueTilapiaFinal.pdf](media/BlueTilapiaFinal.pdf)
+ 
+ Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
   # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
-      image: "images/Mean Proportion of Diet Composition by Weight.pdf"
+  
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
-      preview: "images/Mean Proportion of Diet Composition by WeightPaper.pdf"
-      Skills: Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
+
+ https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing
+ ![Mean Proportion of Diet Composition by Weight.pdf](media/Mean Proportion of Diet Composition by Weight.pdf)
+ https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
+ ![Mean Proportion of Diet Composition by WeightPaper.pdf](media/Mean Proportion of Diet Composition by WeightPaper.pdf)
+ 
+ Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
  # Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
-      image: "images/HedaraHelixReport.pdf"
+
 How human presence impacts biodiversity of both native and non-native plants
-      Skills: Research, Statistics, Ecosystems, Biodiversity, Data Analysis
+
+https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing
+![HedaraHelixReport.pdf](media/HedaraHelixReport.pdf)
+
+Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
 ##  MiscProjects: 
     
  # Lighthouse Global Branding Report
-      image: "images/Lighthouse Brand Consult.pdf"
+
 A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
-      Skills: Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
+
+https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing
+![Lighthouse Brand Consult.pdf](media/Lighthouse Brand Consult.pdf)
+
+Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
  # Caring For Our Care Providers
-      image: "images/Caring For Our Care Providers.pdf"
-      
+ 
  The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
-      Skills: Research, Storytelling, Cultural Intellegence, Communications
+
+https://drive.google.com/file/d/1rz71n59G2k9SUBPZKs7jv1pvQcG8ddy-/view?usp=sharing
+ ![Caring For Our Care Providers.pdf](media/Caring For Our Care Providers.pdf)
+ 
+Research, Storytelling, Cultural Intellegence, Communications
  
 ### Experience 
   
