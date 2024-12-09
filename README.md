@@ -11,7 +11,7 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 
 ## Sea Turtle Rehabilitation: 
 Sea Turtle Rehabilitation Protocol for the Sound of Jura
-Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.",
+Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.
 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
@@ -83,14 +83,17 @@ vaccination administration, animal first aid, and pasture planning and sustainab
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration, Hoofstock Vaccine Administration
 
 ### Education
-# Bachelor of Science, Marine Biology & Sustainable Aquaculture
-2021 - Present
-Unity Environmental University
-Aquaculture Development, Sustainability Design, Data Analysis, Sea Turtle Rehabilitation, Animal Taxonomy, Microsoft Office, Research
+• Bachelor of Science, Marine Biology & Sustainable Aquaculture | 2021 - Present | Unity Environmental University
+• Greenville Technical College | 2021 |	Bachelor of Science
+• GED | 2020 | Rowan-Cabarrus Community College
 
-# GED,
-2020
-Rowan-Cabarrus Community College
+### VOLUNTEERSHIP
+•	Human Rights Campaign
+•	Ada Jenkins
+•	Cornelius Animal Shelter
+•	Time Out Youth
+•	Central Elementary School
+
 
 Linkedin
 https://www.linkedin.com/in/megumi-ragan-a67036308/
