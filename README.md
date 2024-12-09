@@ -136,9 +136,9 @@ vaccination administration, animal first aid, and pasture planning and sustainab
 Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Adaptability, Oral Medication Administration, Hoofstock Vaccine Administration
 
 # Education
-- Bachelor of Science, Marine Biology & Sustainable Aquaculture | 2021 - Present | Unity Environmental University
-- Greenville Technical College | 2021 |	Bachelor of Science
-- GED | 2020 | Rowan-Cabarrus Community College
+- Bachelor of Science, Marine Biology & Sustainable Aquaculture, Unity Environmental University *(2021 - Present)*
+- Bachelor of Science, Greenville Technical College *(2021)*
+- GED, Rowan-Cabarrus Community College *(2020)*
 
 ## VOLUNTEERSHIP
 •	Human Rights Campaign
