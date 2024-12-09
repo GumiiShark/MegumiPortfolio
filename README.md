@@ -16,6 +16,9 @@ Developed a sea turtle rehabilitation protocol for the Sound of Jura including: 
 ![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
 https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=sharing
 
+![SeaTurtleIdentification](media/seaturtle.png)
+![Bouy](media/buoy.png)
+
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
  
  ## Ecological Impact of Blue Tilapia Sea Pens
@@ -36,6 +39,8 @@ Is there a satistically significant composition of diet between pelagics sharks 
 
 ![Mean Proportion of Diet Paper](media/MeanProportionofDietPaper.pdf)
  https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
+ 
+![DietComp](media/dietcomposition.png)
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
@@ -45,6 +50,8 @@ How human presence impacts biodiversity of both native and non-native plants
 
 ![HedaraHelixReport.pdf](media/HedaraHelixReport.pdf)
 https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing
+
+![HedaraHelix](media/HedaraHelix.png)
 
 Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
