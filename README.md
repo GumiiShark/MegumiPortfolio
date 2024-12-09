@@ -15,11 +15,11 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 Sea Turtle Rehabilitation Protocol for the Sound of Jura
 Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.
 
-![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
-https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=sharing
-
 ![SeaTurtleIdentification](media/seaturtle.png)
 ![Bouy](media/buoy.png)
+
+![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
+https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=sharing
 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
  
@@ -38,13 +38,13 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
   
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
 
+![DietComp](media/dietcomposition.png)
+
 ![Mean Proportion of Diet PowerPoint](media/MeanProportionofDiet.pdf)
  https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing
 
 ![Mean Proportion of Diet Paper](media/MeanProportionofDietPaper.pdf)
  https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
- 
-![DietComp](media/dietcomposition.png)
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
  
@@ -53,10 +53,10 @@ Is there a satistically significant composition of diet between pelagics sharks 
 
 How human presence impacts biodiversity of both native and non-native plants
 
+![HedaraHelix](media/HedaraHelix.png)
+
 ![HedaraHelixReport.pdf](media/HedaraHelixReport.pdf)
 https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing
-
-![HedaraHelix](media/HedaraHelix.png)
 
 Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
@@ -67,12 +67,12 @@ Research, Statistics, Ecosystems, Biodiversity, Data Analysis
 
 A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
 
-![LighthouseBrandConsult](media/LighthouseBrandConsult.pdf)
-https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing
-
 ![Contents](media/lighthouseglobalcontents.png)
 ![SocialMediaChanges](media/socialmediachanges.png)
 ![SocialMediaGoals](media/goalsQ22025.png)
+
+![LighthouseBrandConsult](media/LighthouseBrandConsult.pdf)
+https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing
 
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
