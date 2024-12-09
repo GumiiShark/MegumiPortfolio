@@ -34,10 +34,10 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
   
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
 
-PowerPoint:
+![Mean Proportion of Diet PowerPoint](media/MeanProportionofDiet.pdf)
  https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing
 
-Accompanying Paper:
+![Mean Proportion of Diet Paper](media/MeanProportionofDietPaper.pdf)
  https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
