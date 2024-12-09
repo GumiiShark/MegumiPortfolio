@@ -21,35 +21,31 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
  
  # Ecological Impact of Blue Tilapia Sea Pens
       image: images/BlueTilapiaFinal.pdf
-      summary:
-        An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
+ An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
       Skills: Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
       # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
-      image: "images/Mean Proportion of Diet Composition by Weight.pdf",
-      summary:
-        Is there a satistically significant composition of diet between pelagics sharks and skates/rays?.
+      image: "images/Mean Proportion of Diet Composition by Weight.pdf"
+Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
       preview: "images/Mean Proportion of Diet Composition by WeightPaper.pdf"
       Skills: Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
  # Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
-      image: "images/HedaraHelixReport.pdf",
-      summary:
-        How human presence impacts biodiversity of both native and non-native plants
+      image: "images/HedaraHelixReport.pdf"
+How human presence impacts biodiversity of both native and non-native plants
       Skills: Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
 ##  MiscProjects: 
     
- # Lighthouse Global Branding Report",
-      image: "images/Lighthouse Brand Consult.pdf",
-      summary:
-        A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
+ # Lighthouse Global Branding Report
+      image: "images/Lighthouse Brand Consult.pdf"
+A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
       Skills: Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
  # Caring For Our Care Providers
-      image: "images/Caring For Our Care Providers.pdf",
-      summary:
-        The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
+      image: "images/Caring For Our Care Providers.pdf"
+      
+ The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
       Skills: Research, Storytelling, Cultural Intellegence, Communications
  
 ### Experience 
