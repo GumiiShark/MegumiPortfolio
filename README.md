@@ -15,7 +15,7 @@ Developed a sea turtle rehabilitation protocol for the Sound of Jura including: 
 (media/SeaTurtleJuraProtocolCopy.pdf)
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
- ## Marine and BiologyProjects:
+## Marine and BiologyProjects:
  
 # Ecological Impact of Blue Tilapia Sea Pens
       image: images/BlueTilapiaFinal.pdf
