@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=shari
 
 Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
-##  MiscProjects: 
+##  Misc Projects: 
     
  # Lighthouse Global Branding Report
 
