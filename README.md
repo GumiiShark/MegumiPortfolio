@@ -13,7 +13,6 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 Sea Turtle Rehabilitation Protocol for the Sound of Jura
 Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.
 <object data="SeaTurtleJuraProtocolCopy.pdf" width="1000" height="1000" type='application/pdf'/>
-![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
 ## Marine and BiologyProjects:
