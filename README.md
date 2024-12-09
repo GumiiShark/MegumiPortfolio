@@ -48,7 +48,7 @@ Is there a satistically significant composition of diet between pelagics sharks 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
  
  
-## Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
+### Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
 
 How human presence impacts biodiversity of both native and non-native plants
 
@@ -62,7 +62,7 @@ Research, Statistics, Ecosystems, Biodiversity, Data Analysis
 #  Misc Projects: 
     
 
-## Lighthouse Global Branding Report
+### Lighthouse Global Branding Report
 
 A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
 
@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=shari
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
 
-## Caring For Our Care Providers
+### Caring For Our Care Providers
  
  The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
 
