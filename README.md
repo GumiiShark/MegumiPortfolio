@@ -15,7 +15,7 @@ Sea Turtle Rehabilitation Protocol for the Sound of Jura
         Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.",
       Skills: Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
- ## MarineandBiologyProjects:
+ ## Marine and BiologyProjects:
  
 # Ecological Impact of Blue Tilapia Sea Pens
       image: images/BlueTilapiaFinal.pdf
