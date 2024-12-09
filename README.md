@@ -141,7 +141,7 @@ Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Ada
 - Bachelor of Science, Greenville Technical College *(2021)*
 - GED, Rowan-Cabarrus Community College *(2020)*
 
-## VOLUNTEERSHIP
+## Volunteership
 •	Human Rights Campaign
 •	Ada Jenkins
 •	Cornelius Animal Shelter
@@ -150,7 +150,7 @@ Relationship Management, Animal First-Aid, Animal Care, Schedule Management, Ada
 
 
 ## Linkedin
-https://www.linkedin.com/in/megumi-ragan-a67036308/
+[Here](https://www.linkedin.com/in/megumi-ragan-a67036308/)
 
 
 ### Made by Megumi Ragan
