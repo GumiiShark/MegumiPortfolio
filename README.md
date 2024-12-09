@@ -1,3 +1,4 @@
+Megumi Ragan
 # Summary
 Hello! I'm Megumi Ragan, Marine Biology Baccalaureate candidate with extensive animal care experience and training, habitat development and maintenance, and research competencies.
 Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.
@@ -21,7 +22,8 @@ https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=shari
 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
  
- ## Ecological Impact of Blue Tilapia Sea Pens
+ 
+## Ecological Impact of Blue Tilapia Sea Pens
 
  An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
 
@@ -30,7 +32,8 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
   
  Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
-  ## Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
+ 
+## Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
   
 Is there a satistically significant composition of diet between pelagics sharks and skates/rays?
 
@@ -43,8 +46,9 @@ Is there a satistically significant composition of diet between pelagics sharks 
 ![DietComp](media/dietcomposition.png)
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
-      
- ## Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
+ 
+ 
+## Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
 
 How human presence impacts biodiversity of both native and non-native plants
 
@@ -57,7 +61,8 @@ Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
 #  Misc Projects: 
     
- ## Lighthouse Global Branding Report
+
+## Lighthouse Global Branding Report
 
 A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
 
@@ -66,7 +71,8 @@ https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=shari
 
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
- ## Caring For Our Care Providers
+
+## Caring For Our Care Providers
  
  The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
 
