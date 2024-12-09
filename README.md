@@ -10,27 +10,29 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 
 
 ## Sea Turtle Rehabilitation: 
+
 Sea Turtle Rehabilitation Protocol for the Sound of Jura
 Developed a sea turtle rehabilitation protocol for the Sound of Jura including: floor plans for a rehabilitation facility, data compilation and analysis, unique identifying traits of species in the area, regional challenges, remediation/triage plans, common illnesses and how to treat them.
 <object data="SeaTurtleJuraProtocolCopy.pdf" width="1000" height="1000" type='application/pdf'/>
+![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
   
-## Marine and BiologyProjects:
+## Marine and Biology Projects:
  
-# Ecological Impact of Blue Tilapia Sea Pens
+ # Ecological Impact of Blue Tilapia Sea Pens
       image: images/BlueTilapiaFinal.pdf
       summary:
         An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in
       Skills: Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
-  # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
+      # Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
       image: "images/Mean Proportion of Diet Composition by Weight.pdf",
       summary:
         Is there a satistically significant composition of diet between pelagics sharks and skates/rays?.
       preview: "images/Mean Proportion of Diet Composition by WeightPaper.pdf"
       Skills: Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
-  # Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
+ # Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
       image: "images/HedaraHelixReport.pdf",
       summary:
         How human presence impacts biodiversity of both native and non-native plants
@@ -38,13 +40,13 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
       
 ##  MiscProjects: 
     
-  # Lighthouse Global Branding Report",
+ # Lighthouse Global Branding Report",
       image: "images/Lighthouse Brand Consult.pdf",
       summary:
         A comprehensive branding assessment for Lighthouse Global, featuring an analysis of key pain points and strategic recommendations for enhancement across the most impactful platforms
       Skills: Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
-  # Caring For Our Care Providers
+ # Caring For Our Care Providers
       image: "images/Caring For Our Care Providers.pdf",
       summary:
         The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system
