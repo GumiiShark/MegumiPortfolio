@@ -25,13 +25,15 @@ Developed a sea turtle rehabilitation protocol for the Sound of Jura including: 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
  
  
-## Ecological Impact of Blue Tilapia Sea Pens
+### Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
 
- An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
+How human presence impacts biodiversity of both native and non-native plants.
 
-[Blue Tilapia Report](https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing)
-  
- Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
+![HedaraHelix](media/HedaraHelix.png)
+
+[Hedara Helix Report](https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing)
+
+Research, Statistics, Ecosystems, Biodiversity, Data Analysis
       
  
 ## Mean Proportion of Diet Composition by Weight: Skates/Rays Versus Pelagic Sharks
@@ -46,16 +48,14 @@ Is there a satistically significant composition of diet between pelagics sharks 
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
  
- 
-### Human Presence and its Impact on Hedera Helix and the Surrounding Ground Covering Plants of Willow Valley Nature Preserve
 
-How human presence impacts biodiversity of both native and non-native plants.
+ ## Ecological Impact of Blue Tilapia Sea Pens
 
-![HedaraHelix](media/HedaraHelix.png)
+ An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
 
-[Hedara Helix Report](https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing)
-
-Research, Statistics, Ecosystems, Biodiversity, Data Analysis
+[Blue Tilapia Report](https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing)
+  
+ Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
       
 #  Misc Projects: 
     
