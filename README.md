@@ -68,7 +68,7 @@ A comprehensive branding assessment for Lighthouse Global, featuring an analysis
 ![SocialMediaChanges](media/socialmediachanges.png)
 ![SocialMediaGoals](media/goalsQ22025.png)
 
-[LighthouseBrandConsult](https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing)
+[Lighthouse Brand Consultation](https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing)
 
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
     
