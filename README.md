@@ -20,7 +20,6 @@ Developed a sea turtle rehabilitation protocol for the Sound of Jura including: 
 ![SeaTurtleIdentification](media/seaturtle.png)
 ![Bouy](media/buoy.png)
 
-![SeaTurtleJuraProtocolCopy.pdf](media/SeaTurtleJuraProtocolCopy.pdf)
 [Sea Turtle Protocol PowerPoint](https://drive.google.com/file/d/14gyb1K8SXjRLoACUXlXIzieIRvf2WWi6/view?usp=sharing)
 
 Sustainability Design, Enclosure Development, Project Management, Research, Ichthyology, Data Analysis, Public Speaking
@@ -30,7 +29,6 @@ Sustainability Design, Enclosure Development, Project Management, Research, Icht
 
  An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
 
- ![BlueTilapiaFinal.pdf](media/BlueTilapiaFinal.pdf)
 [Blue Tilapia Report](https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing)
   
  Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
@@ -42,10 +40,8 @@ Is there a satistically significant composition of diet between pelagics sharks 
 
 ![DietComp](media/dietcomposition.png)
 
-![Mean Proportion of Diet PowerPoint](media/MeanProportionofDiet.pdf)
 [Mean Proportion of Diet PowerPoint](https://drive.google.com/file/d/1gRzSCK2oMy_IYYl3VfRlDAXe16ux05P3/view?usp=sharing)
 
-![Mean Proportion of Diet Paper](media/MeanProportionofDietPaper.pdf)
 [Mean Proportion of Diet Paper](https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing)
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
@@ -57,7 +53,6 @@ How human presence impacts biodiversity of both native and non-native plants.
 
 ![HedaraHelix](media/HedaraHelix.png)
 
-![HedaraHelixReport.pdf](media/HedaraHelixReport.pdf)
 [Hedara Helix Report](https://drive.google.com/file/d/1gyl0Iw1uQ_75L--vDyXZOvPtnAyZElaW/view?usp=sharing)
 
 Research, Statistics, Ecosystems, Biodiversity, Data Analysis
@@ -73,7 +68,6 @@ A comprehensive branding assessment for Lighthouse Global, featuring an analysis
 ![SocialMediaChanges](media/socialmediachanges.png)
 ![SocialMediaGoals](media/goalsQ22025.png)
 
-![LighthouseBrandConsult](media/LighthouseBrandConsult.pdf)
 [LighthouseBrandConsult](https://drive.google.com/file/d/1VrnqNdNtx2rDqzM3aM2OVaTMXOHsNn67/view?usp=sharing)
 
 Research, Storytelling , Cultural Intellegence, Communications, Marketing, Social Media Presence
@@ -83,7 +77,6 @@ Research, Storytelling , Cultural Intellegence, Communications, Marketing, Socia
  
  The challenges faced by healthcare providers, including financial strain, emotional exhaustion, and mental health issues, require urgent attention and support through improved education access, socialization opportunities, counseling services, and better work-life balance to ensure their well-being and the sustainability of the healthcare system.
 
- ![Caring For Our Care Providers](media/CaringForOurCareProviders.pdf)
 [Caring For Our Care Providers](https://drive.google.com/file/d/1rz71n59G2k9SUBPZKs7jv1pvQcG8ddy-/view?usp=sharing)
  
 Research, Storytelling, Cultural Intellegence, Communications
