@@ -7,7 +7,7 @@ Thanks for visiting!
 ![MePicture](media/mepicturesmall)
  
 ## Skills
-Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Ichthyology | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management |
+Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Biology | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Ichthyology | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management | Chemistry
  
 # Marine and Biology Projects:
 
