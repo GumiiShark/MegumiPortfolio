@@ -16,7 +16,6 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 Reviewed an Environmental Impact Statement case to determine which provided alternative was ideal for benefitting Gray wolves and interested/affected parties.
 
 ![EISTitle](media/ColoradoEISpng.png)
-
 ![TableofContents](media/tableofcontents.png)
 
 [EIS Presentation With Speaker Notes](https://drive.google.com/file/d/1M8m_Z9FfpYO77agtiou68l3v_Oa9tKle/view?usp=drive_link)
