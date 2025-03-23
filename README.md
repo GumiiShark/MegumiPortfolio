@@ -14,8 +14,14 @@ Leadership | Relationship Management | Data Analysis | Collaboration | Cultural 
 ## Environmental Impact Statement Case: Reintroduction of Gray Wolves
 
 Reviewed an Environmental Impact Statement case to determine which provided alternative was ideal for benefitting Gray wolves and interested/affected parties.
+
+![EISTitle](ColoradoEISpng.png)
+![TableofContents](tableofcontents.png)
+
 [EIS Presentation With Speaker Notes](https://drive.google.com/file/d/1M8m_Z9FfpYO77agtiou68l3v_Oa9tKle/view?usp=drive_link)
+
 [EIS Memorandum](https://drive.google.com/file/d/1ZfZONIREQalIZIBuyIzitAM2ehEx2dQn/view?usp=drive_link)
+
 [EIS Presentation Without Speaker Notes](https://drive.google.com/file/d/13HzbONyR5yg-CFY_1j8Ap_EuxRY_se7q/view?usp=drive_link)
 
 ## Sea Turtle Rehabilitation 
