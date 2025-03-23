@@ -1,13 +1,13 @@
 Megumi Ragan
 # Summary
-Hello! I'm Megumi Ragan, Marine Biology Baccalaureate candidate with extensive animal care experience and training, habitat development and maintenance, and research competencies.
+Hello! I'm Megumi Ragan, Baccalaureate candidate with extensive research and analytics experience, animal care, and strong writing competencies.
 Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.
 Thanks for visiting!
 
 ![MePicture](media/mepicturesmall)
  
 ## Skills
-Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Biology | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Ichthyology | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management | Chemistry
+Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Biology | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Persuasive Writing | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management | Chemistry
  
 # Research Projects:
 
@@ -23,6 +23,8 @@ Reviewed an Environmental Impact Statement case to determine which provided alte
 [EIS Memorandum](https://drive.google.com/file/d/1ZfZONIREQalIZIBuyIzitAM2ehEx2dQn/view?usp=drive_link)
 
 [EIS Presentation Without Speaker Notes](https://drive.google.com/file/d/13HzbONyR5yg-CFY_1j8Ap_EuxRY_se7q/view?usp=drive_link)
+
+Research, Community Driven Conclusions, Supporting All Parties, Data Analytics, Persusive Writing
 
 ## Sea Turtle Rehabilitation 
 
@@ -117,6 +119,15 @@ In addition to client services and issue resolution, responsible for balancing, 
 and recording of chemical levels in pool to ensure safety and compliance standards.
 
 Water Parameter Testing, Water Chemical Balancing, Communications, Customer Service
+
+## Speech & Debate
+
+North Mecklenburg Highschool
+
+*2018-2020*
+
+Worked both indivdually and as a team member to write and perform compelling pieces of media. 
+Won multiple awards with a focus in dramatic performance and duo interpretation.
 
 ## Hospitality Entry to Supervisor Positions
  
