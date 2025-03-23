@@ -129,6 +129,8 @@ North Mecklenburg Highschool
 Worked both indivdually and as a team member to write and perform compelling pieces of media. 
 Won multiple awards with a focus in dramatic performance and duo interpretation.
 
+Writing, Teamwork, Leadership, Communications, Story Telling
+
 ## Hospitality Entry to Supervisor Positions
  
  Various
