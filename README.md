@@ -24,7 +24,7 @@ Reviewed an Environmental Impact Statement case to determine which provided alte
 
 [EIS Presentation Without Speaker Notes](https://drive.google.com/file/d/13HzbONyR5yg-CFY_1j8Ap_EuxRY_se7q/view?usp=drive_link)
 
-Research, Community Driven Conclusions, Supporting All Parties, Data Analytics, Persusive Writing
+Research, Community Driven Conclusions, Supporting All Parties, Data Analytics, Persuasive Writing
 
 ## Sea Turtle Rehabilitation 
 
