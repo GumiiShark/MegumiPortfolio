@@ -14,6 +14,8 @@ Westlaw | LexisNexis | Clio | Microsoft Office | Google suite |
 ### Drafting Experience
 ### Areas of Law
  Civil Litigation | Legal Research & Writing | Commercial Law | Real Property | Law Office Management & Technology | Ethics & Professionalism | Investigation | Torts & Personal Injury | Criminal Law & Procedure | Wills, Estates & Trusts |
+# Drafting Portfolio:
+
 # Research Projects:
 
 ## Environmental Impact Statement Case: Reintroduction of Gray Wolves
