@@ -8,7 +8,7 @@ Thank you for visiting!
 ![MePicture](media/mepicturesmall)
  
 ## Skills
-Research Methodology | Relationship Management | Data Analysis | Collaboration | Cultural intelligence | Communications | Legal & Technical Writing | Critical Thinking | Project Management | Time Management | Process Improvement | Client Service | Case Analysis | Adaptability | Conflict Resolution | Schedule Management
+Research Methodology | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Legal & Technical Writing | Critical Thinking | Project Management | Time Management | Process Improvement | Client Service | Case Analysis | Adaptability | Conflict Resolution | Schedule Management
 ### Software Experience
 Westlaw | LexisNexis | Clio | Microsoft Office | Google suite
  
