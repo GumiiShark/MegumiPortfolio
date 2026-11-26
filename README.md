@@ -1,7 +1,9 @@
 Megumi Ragan
 # Professional Summary
 Legal Assistant/Paralegal Studies student at Central Piedmont Community College, bringing a strong foundation in research, regulatory analysis, and persuasive writing from a prior background in environmental science. Experience includes reviewing and writing memoranda on clients/cases, compiling and analyzing data to support recommendations, and presenting findings clearly to varied audiences.
+
 Complementing this academic training is nearly a decade of client-facing professional experience inclusive of managing sensitive client needs (strict scheduling requirements, compliance with safety standards), resolving problems under pressure, and maintaining long-term client relationships. Seeking an internship or entry-level position with a law firm or legal team where research rigor, precise written communication, and reliable client service are valued.
+
 Thank you for visiting!
 
 ![MePicture](media/mepicturesmall)
