@@ -1,13 +1,15 @@
 Megumi Ragan
-# Summary
-Hello! I'm Megumi Ragan, Baccalaureate candidate with extensive research and analytics experience, animal care, and strong writing competencies.
-Veteran customer service professional with excellent problem-resolution, presentation, written and verbal skills. Seeking to gain broader hands-on career experience and hone relevant skill portfolio.
-Thanks for visiting!
+# Professional Summary
+Legal Assistant/Paralegal Studies student at Central Piedmont Community College, bringing a strong foundation in research, regulatory analysis, and persuasive writing from a prior background in environmental science. Experience includes reviewing and writing memoranda on clients/cases, compiling and analyzing data to support recommendations, and presenting findings clearly to varied audiences.
+Complementing this academic training is nearly a decade of client-facing professional experience inclusive of managing sensitive client needs (strict scheduling requirements, compliance with safety standards), resolving problems under pressure, and maintaining long-term client relationships. Seeking an internship or entry-level position with a law firm or legal team where research rigor, precise written communication, and reliable client service are valued.
+Thank you for visiting!
 
 ![MePicture](media/mepicturesmall)
  
 ## Skills
-Leadership | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Animal First Aid | Storytelling | Project Management | Research | Biology | Enclosure Development | Sustainability Design | Media Training | Process Improvement | Public Speaking | Sea Turtle Rehabilitation | Aquaculture Development | Animal Taxonomy | SCUBA Certification | Persuasive Writing | Customer Service | Microsoft Office | Adaptability | Animal Care | Schedule Management | Chemistry
+Research Methodology | Relationship Management | Data Analysis | Collaboration | Cultural intelligence | Communications | Legal & Technical Writing | Critical Thinking | Project Management | 
+Time Management | Process Improvement | Client Service | Case Analysis | Adaptability | Conflict Resolution | Schedule Management |
+Westlaw | LexisNexis | Clio | Microsoft Office | Google suite |
  
 # Research Projects:
 
