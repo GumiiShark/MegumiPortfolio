@@ -67,15 +67,9 @@ Is there a satistically significant composition of diet between pelagics sharks 
 [Mean Proportion of Diet Paper](https://drive.google.com/file/d/1X-g1nSrvupkuW9GqH7NT9Q7m9MEU5XsN/view?usp=sharing)
 
  Research, Statistics, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
+
+
  
-### Ecological Impact of Blue Tilapia Sea Pens
-
- An investigation into the ecological impacts of Blue Tilapia sea pens and which ecosystem they would work best in.
-
-[Blue Tilapia Report](https://drive.google.com/file/d/10G-SQNoskhBuubxuW9sGbFDcoWbdmcW9/view?usp=sharing)
-  
- Research, Ecosystems, Sustainability Design, Aquaculture Development, Data Analysis, Public Speaking
-      
 #  Miscellaneous Projects: 
     
 
