@@ -11,6 +11,8 @@ Thank you for visiting!
 Research Methodology | Relationship Management | Data Analysis | Collaboration | Cultural Intelligence | Communications | Legal & Technical Writing | Critical Thinking | Project Management | Time Management | Process Improvement | Client Service | Case Analysis | Adaptability | Conflict Resolution | Schedule Management
 ### Software Experience
 Westlaw | LexisNexis | Clio | Microsoft Office | Google suite
+### Drafting Experience
+### Areas of Law
  
 # Research Projects:
 
